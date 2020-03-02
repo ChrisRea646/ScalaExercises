@@ -1,3 +1,5 @@
+package day1
+
 object Main extends App {
 
   println("Hello World!")
@@ -12,6 +14,8 @@ object Main extends App {
   //methods rely on the values within an object
   //functions will perform the same thing on whatever is inputted i.e a doubling function
 
+  val hi = "Hello world!"
 
+  println(hi)
 
 }
