@@ -6,8 +6,8 @@ object beerBottles extends App{
     if (i == 0)
       println("You've not got any more beer.. Go get more")
     else if (i == 1)
-      println(s"$i more bottle of beer on the wall, only $i moore bottle of beer, take it down pass it around")
+      println(s"$i more bottle of beer on the wall, only $i more bottle of beer, take it down pass it around")
     else
-      println(s"$i bottles of beer, $i bottles of beer on the wall, $i of beer, take one down pass it around \n")
+      println(s"$i bottles of beer, $i bottles of beer on the wall, $i of beer, take one down pass it around")
 
 }
